@@ -1,13 +1,9 @@
 {
-  "name": "Rich Presence",
+  "name": "Mario Kart World",
   "description": "Sets Discord Rich Presence for your profile.",
   "authors": [
     {
-      "name": "pylix",
-      "id": "492949202121261067"
-    },
-    {
-      "name": "シグマ siguma",
+      "name": "Aymano",
       "id": "737597276339437578"
     }
   ],
