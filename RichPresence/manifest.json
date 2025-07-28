@@ -1,1 +1,1 @@
-{"name":"Mario Kart World","description":"Sets Discord Rich Presence to MK World.","authors":[{"name":"Aymano","id":"737597276339437578"}],"main":"index.js","vendetta":{"icon":"ic_controller_24px"},"hash":"69041c46cb3b1b7070a332f03512218017480a7e971cb3495b985f282aac7003"}
+{"name":"MK World Presence","description":"Sets Discord Rich Presence to MK World.","authors":[{"name":"Aymano","id":"737597276339437578"}],"main":"index.js","vendetta":{"icon":"ic_controller_24px"},"hash":"69041c46cb3b1b7070a332f03512218017480a7e971cb3495b985f282aac7003"}
